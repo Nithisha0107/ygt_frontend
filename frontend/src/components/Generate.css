@@ -1,0 +1,24 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: auto;
+}
+form{
+    background-color:#FADCA8;
+    width: 100%;
+    padding: 15px;
+    font-family:sans-serif;
+    border-radius: 20px;
+    font-weight: bold;
+}
+.button-container{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+Button:hover{
+background-color: #fa7f4f;
+}
