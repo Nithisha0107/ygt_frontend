@@ -1,0 +1,19 @@
+body {
+    color: #524d4d;
+    font-size: 13px;
+    font-family: 'Arial';
+    overflow-x: hidden;
+    background-image: url(https://yadadritemple.telangana.gov.in/images/body-background3-80.png);
+    background-repeat: repeat;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button {
+-webkit-appearance: none;
+appearance: none;
+}

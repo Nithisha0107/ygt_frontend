@@ -1,0 +1,55 @@
+.head{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  background-color: #ffc107;
+  /* height: 10rem; */
+}
+.head-container{
+  display: flex;
+  align-items: center;
+  width: 100%;
+  /* border-radius: 10px; */
+  background-image: url(https://yadadritemple.telangana.gov.in/images/banners/Head-Bg.jpg);
+}
+.headding{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 5px;
+  width: 100%;
+}
+.image{
+  padding: 6px;
+  border: 1px solid rgb(241, 137, 8);
+  display: flex;
+  justify-content: center;
+  border-radius: 10px 0px 0px 10px;
+}
+.imaget{
+  padding: 6px;
+  border: 1px solid rgb(241, 137, 8);
+  display: flex;
+  justify-content: center;
+  border-radius: 0px 10px 10px 0px;
+}
+span{
+  font-weight:bolder;
+  color: white;
+}
+img{
+  width:60px;
+  height:60px;
+}
+ 
+.navbarone{
+  background-color: #95191a;
+  width: 100%;
+  height: 3.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 7%;
+}
